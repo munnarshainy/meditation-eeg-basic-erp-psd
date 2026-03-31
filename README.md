@@ -1,4 +1,4 @@
-# EEG Meditation Study — ERP & Power Spectral Analysis
+# EEG Meditation Study — Basic ERP & Power Spectral Analysis
 
 Basic analysis of cortical responses to mindfulness interruption prompts using 
 event-related potentials (ERP) and power spectral density (PSD) from a 
